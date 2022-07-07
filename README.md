@@ -38,15 +38,15 @@
 
  * [client-code](https://github.com/vakhabow/frontend-quize)
 
- * [client-code](https://github.com/vakhabow/back-for-quiz)
+ * [backend-code](https://github.com/vakhabow/back-for-quiz)
 
  Аренда хижины:
 
  * [client-code](https://github.com/vakhabow/front_hotel)
 
- * [client-code](https://github.com/vakhabow/back_for_hotel)
+ * [backend-code](https://github.com/vakhabow/back_for_hotel)
 
- * [client-code](https://github.com/vakhabow/websocket-server)
+ * [websecket-server](https://github.com/vakhabow/websocket-server)
 
  ## Связаться:
 

@@ -2,7 +2,6 @@
  
  ## Мой стек
 
- ***
  ## Фронтенд: 
  * JavaScript
  * React
@@ -13,8 +12,9 @@
  * Material UI
  * Bootstrap
  * React-datepicker
-
+ 
  ***
+ 
  ## Бэкенд:
  * NodeJS
  * Express

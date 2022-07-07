@@ -26,12 +26,6 @@
  -TypeScript
  -Angular
 
- ---
-
- ### :fire: My Stats :
-
- [![GitHub Streak(https://github.com/vakhabow/front_hotel/?user=vakhabow)]
-
  ## Мои проекты:
 
  Приложение с тестами:

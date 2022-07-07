@@ -25,8 +25,8 @@
  ***
  <h2>Изучаю:</h2>
 
- -TypeScript
- -Angular
+ *TypeScript
+ *Angular
 
  ## Мои проекты:
 

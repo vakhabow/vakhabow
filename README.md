@@ -1,4 +1,4 @@
- <h1>Frintend developer</h1>
+ <h1>Frontend developer</h1>
  
  ## Мой стек
 

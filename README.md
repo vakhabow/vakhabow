@@ -4,12 +4,14 @@
 
  ## Фронтенд: 
  <div>
- <img align="left" alt="JavaScript" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> * Redux Toolkit
- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- * React Router
+ * HTML
+ * CSS
+ * JavaScript
  * SASS/SCSS
+ * React
+ * Redux
+ * Redux-Toolkit
+ * React Router
  * Material UI
  * Bootstrap
  * React-datepicker

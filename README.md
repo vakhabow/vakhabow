@@ -1,9 +1,9 @@
- <h1>Frontend developer</h1>
- 
- ## Мой стек
+<h1>Привет. Меня зовут Шамиль. Я Frontend-ра<работчик/h1>
 
- ## Фронтенд: 
- <div>
+<h1>Frontend developer</h1>
+ 
+ ## Мой стек:
+ ## FRONTEND: 
  * HTML
  * CSS
  * JavaScript
@@ -19,7 +19,7 @@
  
  ***
  
- ## Бэкенд:
+ ## BACKEND:
  * NodeJS
  * Express
  * Mongoose
@@ -46,7 +46,7 @@
 
  * [backend-code](https://github.com/vakhabow/back_for_hotel)
 
- * [websecket-server](https://github.com/vakhabow/websocket-server)
+ * [websocket-server](https://github.com/vakhabow/websocket-server)
 
  ## Связаться:
 

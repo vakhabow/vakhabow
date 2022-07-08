@@ -5,7 +5,7 @@
  ## Фронтенд: 
  <div>
  <img align="left" alt="JavaScript" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40px" height="40px"/>;
  * Redux
  * Redux Toolkit
  * React Router
@@ -49,7 +49,7 @@
  ## Связаться:
 
  <div id="badges">
-   <a href="https://t.me/sakessam">
+   <a href="https://t.me/sykessam">
      <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white%22%20alt=%22Youtube%20Badge" alt="LinkedIn Badge"/>
    </a>
    <a href="https://api.whatsapp.com/send/?phone=79899099398">

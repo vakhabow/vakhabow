@@ -27,6 +27,7 @@
  ***
  <h2>Изучаю:</h2>
 
+ * React Nateve
  * TypeScript
  * Angular
 
